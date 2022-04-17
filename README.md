@@ -1,5 +1,5 @@
 # QuestionsList
-I am compiling this page to include the questions over following topics
+I had compiled this page to include the questions over following topics
 
 * Core - Java
 * Java Collection
